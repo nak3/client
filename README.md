@@ -40,9 +40,9 @@ $ source <(kn completion)
 Use TAB to list available sub-commands
 
 ```sh
-$ source <TAB>
+$ kn <TAB>
 completion revision service
 
-$ source revision <TAB>
+$ kn revision <TAB>
 describe list
 ```
