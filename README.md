@@ -19,24 +19,6 @@ Start with the [user's guide](docs/README.md) and from there you can can read ab
 * [Basic workflows](docs/workflows.md) (use cases)
 * [Generated documentation](docs/cmd/kn.md)
 
-**Bash auto completion:**
-
-Run following to enable bash auto completion
-
-```sh
-$ source <(kn completion)
-```
-
-Use TAB to list available sub-commands
-
-```sh
-$ kn <TAB>
-completion revision service version
-
-$ kn revision <TAB>
-describe get
-```
-
 # Developers
 
 If you'd like to contribute, please see
